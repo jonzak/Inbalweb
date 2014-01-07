@@ -1,0 +1,4 @@
+iframe > .navbar {
+	overflow-y: hidden;
+	font-size: 30px;
+}
